@@ -15,15 +15,15 @@
 
 Стартовое меню:
 
-![image]()
+![image](https://raw.githubusercontent.com/P-Sergei-qa/tg_json/refs/heads/main/St1.png)
 
 После отправки JSON c ошибкой:
 
-![image]()
+![image](https://raw.githubusercontent.com/P-Sergei-qa/tg_json/refs/heads/main/Er.png)
 
 Пример работы бьютифаера:
 
-![image]()
+![image](https://raw.githubusercontent.com/P-Sergei-qa/tg_json/refs/heads/main/Ok.png)
 
 
 ## 💻 Технологии
