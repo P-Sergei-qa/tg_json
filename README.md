@@ -19,7 +19,7 @@
 
 После отправки JSON c ошибкой:
 
-![image](https://raw.githubusercontent.com/P-Sergei-qa/tg_json/refs/heads/main/Er.png)
+![image](https://raw.githubusercontent.com/P-Sergei-qa/tg_json/refs/heads/main/%D0%95.png)
 
 Пример работы бьютифаера:
 
